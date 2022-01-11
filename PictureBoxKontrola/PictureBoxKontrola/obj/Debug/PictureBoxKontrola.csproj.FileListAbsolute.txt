@@ -1,0 +1,10 @@
+C:\Users\ucenik\source\repos\PictureBoxKontrola\PictureBoxKontrola\bin\Debug\PictureBoxKontrola.exe.config
+C:\Users\ucenik\source\repos\PictureBoxKontrola\PictureBoxKontrola\bin\Debug\PictureBoxKontrola.exe
+C:\Users\ucenik\source\repos\PictureBoxKontrola\PictureBoxKontrola\bin\Debug\PictureBoxKontrola.pdb
+C:\Users\ucenik\source\repos\PictureBoxKontrola\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\PictureBoxKontrola\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.Form1.resources
+C:\Users\ucenik\source\repos\PictureBoxKontrola\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\PictureBoxKontrola\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\PictureBoxKontrola\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\PictureBoxKontrola\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.exe
+C:\Users\ucenik\source\repos\PictureBoxKontrola\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.pdb
